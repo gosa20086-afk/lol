@@ -1,2 +1,1 @@
-# lol
-lol
+print ("hello lol")
